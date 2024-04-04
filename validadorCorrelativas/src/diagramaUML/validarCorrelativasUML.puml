@@ -25,11 +25,11 @@ class Alumno{
 }
 
 
-
-Inscripcion  o-- "*" Materia
-Inscripcion  o--Alumno
 Alumno -->"*"  Materia
 Materia -->"*" Materia
+Inscripcion  o-- "*" Materia
+Inscripcion  o--Alumno
+
 
 
 

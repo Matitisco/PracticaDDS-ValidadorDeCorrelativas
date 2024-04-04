@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a24919-d675-4f2e-bade-091f5b9d9c41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PracticaDDS-ValidadorDeCorrelativas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/src/main/java/org/example/Alumno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/src/main/java/org/example/Inscripcion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/src/main/java/org/example/Materia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/target/classes/org/example/Alumno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/target/classes/org/example/Inscripcion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/target/classes/org/example/Materia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/target/diagramaDeClases.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba2/target/diagramaDeClases.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validadorCorrelativas/src/diagramaUML/validarCorrelativasUML.puml" beforeDir="false" afterPath="$PROJECT_DIR$/validadorCorrelativas/src/diagramaUML/validarCorrelativasUML.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +30,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/PracticaDDS-ValidadorDeCorrelativas/validadorCorrelativas"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PracticaDDS-ValidadorDeCorrelativas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PracticaDDS-ValidadorDeCorrelativas" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

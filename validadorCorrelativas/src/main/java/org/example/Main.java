@@ -30,10 +30,10 @@ cursar la materia en cuestión.
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        Alumno alumno = new Alumno();
+        /*Alumno alumno = new Alumno();
         Materia aga = new Materia();
 
-        alumno.aproboCorrelativas(aga);
+        alumno.aproboCorrelativas(aga);*/
     }
 
 
