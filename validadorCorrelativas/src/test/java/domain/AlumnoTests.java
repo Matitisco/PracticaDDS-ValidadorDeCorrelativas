@@ -17,8 +17,8 @@ public class AlumnoTests {
         Materia aga2 = new Materia("aga2",6,null);
 
 
-        ArrayList<Materia> correlativasAm2 = new ArrayList<>();
-        ArrayList<Materia> soloAga = new ArrayList<>();
+        List<Materia> correlativasAm2 = new ArrayList<>();
+        List<Materia> soloAga = new ArrayList<>();
         correlativasAm2.add(aga);
         correlativasAm2.add(aga2);
 
@@ -36,8 +36,8 @@ public class AlumnoTests {
         Materia aga2 = new Materia("aga2",6,null);
 
 
-        ArrayList<Materia> correlativasAm2 = new ArrayList<>();
-        ArrayList<Materia> soloAga = new ArrayList<>();
+        List<Materia> correlativasAm2 = new ArrayList<>();
+        List<Materia> soloAga = new ArrayList<>();
         correlativasAm2.add(aga);
         correlativasAm2.add(aga2);
 
